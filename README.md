@@ -21,3 +21,10 @@ https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-20
 <li> The dataset may lack certain relevant variables that could provide additional context for understanding suicide rates.</li>
 </ul>
 
+## Key findings:
+<ul>
+  <li> Suicide rates vary significantly across countries, with some countries experiencing higher rates than others. </li>
+  <li> There are notable differences in suicide rates across different time periods, suggesting temporal trends and potential factors influencing suicide rates. </li>
+  <li> Age and gender play a significant role in suicide rates, with distinct patterns observed across different age groups and between males and females. </li>
+  <li> Economic factors, such as GDP per capita, have been explored in relation to suicide rates, indicating a potential correlation. </li>
+</ul>
