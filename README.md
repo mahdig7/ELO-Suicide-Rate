@@ -16,12 +16,11 @@ https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-20
 ## Cleaning
 <ul>
 <li> New names were assigned to specific columns in the dataframe, making it easier to work with and refer to those columns in subsequent analyses or visualizations.
-<li><ul><li>"suicides/100k pop" is renamed to "suicides_pop".</li>
+<ul><li>"suicides/100k pop" is renamed to "suicides_pop".</li>
 <li>"HDI for year" is renamed to "HDI_for_year".</li>
 <li>" gdp_for_year ($) " is renamed to "gdp_for_year".</li>
 <li>" gdp_per_capita ($) " is renamed to "gdp_per_capita".</li>
 <li>"gdp_per_capita ($)" is also renamed to "gdp_per_capita".</li></ul>
- </li>
 <li> The column "HDI for year" was removed from the dataset due to the presence of a significant amount of missing data. Specifically, approximately two-thirds of the entries in the "HDI for year" column were missing. </li>
 <li>	The data for the year 2016 was removed from the dataset. This decision was made because only a few countries had any data available for that particular year, and even among those countries, there were significant missing values in the data. </li>
 </ul>
