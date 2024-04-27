@@ -14,8 +14,8 @@ The suicide dataset provides comprehensive information on suicide rates across d
 https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
 
 ## Challenges and Limitations
-•	The challenge lies in the complexity of the problem and the multiple variables involved. Suicide rates are influenced by a combination of socio-economic, cultural, and psychological factors, making it a multi-dimensional issue.
-•	The dataset does not include comprehensive data from all countries, potentially limiting the generalizability of the findings.
-•	The analysis primarily focuses on descriptive statistics and visualizations, with limited exploration of causal relationships or in-depth statistical modeling.
-•	The dataset may lack certain relevant variables that could provide additional context for understanding suicide rates.
+•	The challenge lies in the complexity of the problem and the multiple variables involved. Suicide rates are influenced by a combination of socio-economic, cultural, and psychological factors, making it a multi-dimensional issue.<br>
+•	The dataset does not include comprehensive data from all countries, potentially limiting the generalizability of the findings.<br>
+•	The analysis primarily focuses on descriptive statistics and visualizations, with limited exploration of causal relationships or in-depth statistical modeling.<br>
+•	The dataset may lack certain relevant variables that could provide additional context for understanding suicide rates.<br>
 
