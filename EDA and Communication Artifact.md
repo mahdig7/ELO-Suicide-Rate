@@ -1,5 +1,5 @@
 # Communication Artifact
-I intend to post the following visualizations on social to raise awareness about this critical issue.
+I intend to post the following visualizations and insights on social to raise awareness about this critical issue.
 
 # EDA and Visualizations
 ## Question 1: How has the global suicide trend evolved from 1985 to 2016?
