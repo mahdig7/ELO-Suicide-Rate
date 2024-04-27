@@ -14,7 +14,7 @@ I intend to post the following visualizations and insights on social to raise aw
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/2eff461c-7b1f-4294-92e3-d3e9059c6656)
 ### Insights
 <ul>
-<li>The plot shows a decreasing trend in suicide rates for both males and females over the given time period. This suggests a positive change in suicide prevention and mental health awareness.</li>
+<li>The plot shows a decreasing trend in suicide rates for both males and females over the years. This suggests a positive change in suicide prevention and mental health awareness.</li>
 <li>The blue line representing male suicide rates consistently remains higher than the red line representing female suicide rates. This aligns with the well-documented fact that males generally have higher suicide rates compared to females.</li>
 <li>Both male and female suicide rates exhibit similar patterns of fluctuations over time. This implies that there might be common underlying factors influencing suicide rates regardless of gender.</li>
 <li>The plot indicates a peak in suicide rates for both sexes around the mid-1990s. This could be attributed to various socio-economic, cultural, or psychological factors prevalent during that time.</li>
