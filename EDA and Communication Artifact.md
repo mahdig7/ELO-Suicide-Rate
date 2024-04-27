@@ -1,3 +1,6 @@
+# Communication Artifact
+I intend to post the following visualizations on social to raise awareness about this critical issue.
+
 # EDA and Visualizations
 ## Question 1: How has the global suicide trend evolved from 1985 to 2016?
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/d0036e92-b488-4a4b-abc4-81fab8920015)
@@ -73,7 +76,7 @@ Consistent lower rates: The bar heights consistently portray low suicide rates a
 <li> Negative Correlation: Overall, there appears to be a negative correlation between GDP per capita and suicide rates. As GDP per capita increases, the total number of suicides generally decreases. This pattern is evident for both males and females. </li>
 <li> Gender-Specific Patterns: Males tend to have higher suicide rates compared to females across different levels of GDP per capita. The blue data points, representing males, are generally above the orange data points, indicating higher suicide rates for males at similar GDP per capita levels. </li>
 <li>	Outliers: There are a few outliers in the data, particularly for males. These outliers represent countries with relatively high suicide rates despite higher GDP per capita. Exploring these outliers can provide insights into unique circumstances or factors contributing to higher suicide rates. </li>
-<li> •	Overlapping Regions: There are regions where the male and female data points overlap or closely cluster together. This suggests that there are similarities in suicide rates between genders, irrespective of GDP per capita. It may be worth investigating the underlying social, cultural, or psychological factors that contribute to these similarities. </li>
+<li> Overlapping Regions: There are regions where the male and female data points overlap or closely cluster together. This suggests that there are similarities in suicide rates between genders, irrespective of GDP per capita. It may be worth investigating the underlying social, cultural, or psychological factors that contribute to these similarities. </li>
 </ul>
 
 ## Question 10: Which are the top 4 countries with the highest suicide rates, and their trend over the years?
@@ -91,6 +94,6 @@ Consistent lower rates: The bar heights consistently portray low suicide rates a
 <ul>
 <li> The line chart shows and increase in number of suicides in US in the years leading to and after the great recession of 2008. Thereby, showing that GDP is an important factor in predicting suicide rates. </li>
 <li> Economic contraction: The US experienced a severe economic downturn during the recession, characterized by a contraction in economic activity. GDP growth declined significantly, leading to a decline in overall economic output. </li>
-<li> •	Unemployment surge: The recession led to a sharp increase in unemployment rates across the country. Many businesses faced financial difficulties and were forced to lay off employees or reduce their workforce, resulting in widespread job losses. </li>
+<li>	Unemployment surge: The recession led to a sharp increase in unemployment rates across the country. Many businesses faced financial difficulties and were forced to lay off employees or reduce their workforce, resulting in widespread job losses. </li>
 <li> Financial sector crisis: The recession was triggered by a financial sector crisis, primarily stemming from the collapse of the housing market and the subprime mortgage crisis. Financial institutions faced significant losses, credit markets froze, and many banks and financial companies were on the brink of failure. </li>
 </ul>
