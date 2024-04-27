@@ -8,3 +8,14 @@ The motivations for exploring this dataset and defining specific project questio
 The goal of this project is to gain insights into global suicide rates and understand the factors associated with them. Through exploratory data analysis and visualization, I aim to uncover patterns, trends, and potential correlations within the dataset.
 To reach these goals, I will perform thorough exploratory data analysis using various insightful questions and visualizations. The preliminary EDA will help define the project question and guide our analysis. By examining the dataset from different angles and asking specific questions, I can uncover meaningful insights and tell a comprehensive story about global suicide rates.
 
+## The Dataset
+The dataset used in this project is downloaded from the Kaggle.com website and was mainly obtained from the World Health Organization (WHO).
+The suicide dataset provides comprehensive information on suicide rates across different countries, years, genders, age groups, and economic factors. It includes variables such as 'country', 'year', 'sex', 'age', 'suicides_no', 'population', 'suicides/100k_pop', 'country-year', 'gdp_for_year', 'gdp_per_capita', and 'generation'.
+https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016
+
+## Challenges and Limitations
+•	The challenge lies in the complexity of the problem and the multiple variables involved. Suicide rates are influenced by a combination of socio-economic, cultural, and psychological factors, making it a multi-dimensional issue.
+•	The dataset does not include comprehensive data from all countries, potentially limiting the generalizability of the findings.
+•	The analysis primarily focuses on descriptive statistics and visualizations, with limited exploration of causal relationships or in-depth statistical modeling.
+•	The dataset may lack certain relevant variables that could provide additional context for understanding suicide rates.
+
