@@ -32,7 +32,7 @@ I intend to post the following visualizations and insights on social to raise aw
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/f37ad027-cf78-4615-b44b-0beb03e93a8c)
 ### Insights
 <ul>
-<li>	Gender Disparities: The stacked bar chart highlights noticeable gender disparities in suicide rates across different age groups. In most age brackets, males consistently have higher total suicide numbers compared to females. This suggests that males are more vulnerable to suicide across various stages of life. </li>
+<li>	Gender Disparities: The stacked bar chart highlights noticeable gender disparities in suicide rates across different age groups. In all age brackets, males consistently have higher total suicide numbers compared to females. This suggests that males are more vulnerable to suicide across various stages of life. </li>
 <li>	Higher Suicide Rates in Middle-Aged Adults: The age group of "35-54 years" exhibits the highest total suicide numbers for both males and females. This indicates that middle-aged adults face a greater risk of suicide compared to other age groups. </li>
 <li>	Substantial Difference in Suicide Rate of Middle-Aged Adults Between the Genders: The age group of "35-54 years" stands out as having the highest total suicide numbers for both males and females. However, the noticeably higher total suicide numbers among males in this age group indicate a heightened risk of suicide among middle-aged men. </li>
 </ul>
@@ -42,10 +42,9 @@ I intend to post the following visualizations and insights on social to raise aw
 ### Insights
 <ul>
 <li>	Silent Generation (born 1925-1945) and Baby Boomers (born 1946-1964) have consistently higher suicide rates compared to other generations throughout the observed years. They exhibit a relatively stable trend with some minor fluctuations. </li>
-<li>	Generation X (born 1965-1980) shows a significant increase in suicide rates from the early 1990s until around 2000. Afterward, the rates gradually decline and stabilize.</li>
-<li>	Millennials (born 1981-1996) demonstrate a relatively stable pattern with a slight decrease in suicide rates over time. </li>
+<li>	Generation X (born 1965-1980) and Millennials (born 1981-1996) show a significant increase in suicide rates after 2010. Afterward, the rates gradually decline.</li>
 <li> Generation Z (born 1997 and later) has the lowest suicide rates among the generations considered. The rates are relatively stable with minor fluctuations. </li>
-<li> Notably, the Baby Boomers initially had the highest suicide rates among all generations, but their rates have been gradually decreasing over time. In contrast, Generation X, which followed the Baby Boomers, experienced an increase in suicide rates before showing a declining trend. </li>
+<li> Notably, the Baby Boomers initially had the highest suicide rates among all generations, but their rates have been gradually decreasing over time. In contrast, Generation X, which came after Baby Boomers, experienced an increase in suicide rates before showing a declining trend. </li>
 <li>	The Silent Generation has consistently high suicide rates over the years, indicating that this generation has been consistently vulnerable to suicide.</li>
 </ul>
 
@@ -53,7 +52,7 @@ I intend to post the following visualizations and insights on social to raise aw
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/9863a22e-90a0-404b-a5ec-ed30e0bfc906) <br>
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/1b7617c2-238a-4960-879d-750a761d67ef)
 ### Insights
-The ratio of male to female suicides, with approximately 3.5 males for every female, has remained relatively consistent since the mid-1990s. Despite any changes in the total number of suicides for each gender over time, the relative proportion of male to female suicides has remained stable.
+The ratio of male to female suicides has been approximately 3.5 males for every female.
 
 ## Question 7: What are the top 10 countries with the highest suicide rates?
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/dd92a633-d4ee-4fb9-b842-5379f0620900)
