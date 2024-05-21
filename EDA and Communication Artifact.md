@@ -24,7 +24,7 @@ I intend to post the following visualizations and insights on social to raise aw
 ![image](https://github.com/mahdig7/ELO-Suicide-Rate/assets/107054053/6907a333-c956-41bb-b720-2ff576d29d82)
 ### Insights
 <ul>
-<li>High Suicide Rates in Older Age Groups: The age groups of 55-74 years and 75+ years consistently exhibit higher suicide rates compared to the younger age groups. This suggests that older individuals may face unique challenges or circumstances that contribute to higher suicide risk.</li>
+<li>High Suicide Rates in Older Age Groups: The age group of 55-74 years consistently exhibits a significant suicide rate. This suggests that older individuals may face unique challenges or circumstances that contribute to higher suicide risk.</li>
 <li>Highest Suicide Rate: The age group of 35-54 years shows the highest numbers in suicide rates over time. This may indicate the influence of various factors such as societal changes, mental health issues, or social pressures affecting this age group population.</li>
 </ul>
 
